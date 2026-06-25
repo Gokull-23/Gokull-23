@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Gokul
 
 A passionate developer exploring the world of **Web Development**, **Data Science**, and **Open Source**.
 
