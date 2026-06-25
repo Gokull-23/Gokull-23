@@ -1,88 +1,113 @@
-<h1 align="center">Hi 👋, I'm Gokul R</h1>
-<h3 align="center">Computer Science Student | Java Developer | Learning Full Stack Development</h3>
+# Hi 👋, I'm [Your Name]
+
+A passionate developer exploring the world of **Web Development**, **Data Science**, and **Open Source**.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Passionate about Software Development
-- 🌱 Currently learning **Java, JDBC, SQL, JavaScript, DOM**
-- 🔭 Working on **Accessible E-commerce Website for Blind People**
-- 📚 Improving Problem Solving and Data Structures
-- 🎯 Goal: Become a Full Stack Java Developer
+- 🎓 Currently learning **Full Stack Development**
+- 💼 Interested in **Web Development** and **Software Engineering**
+- 📚 Building projects to enhance my coding skills
+- 🌱 Always eager to collaborate and learn from the community
+- 💬 Ask me about **HTML, CSS, JavaScript**, and **Web Design**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages & Tools
 
-### Programming Languages
-- Java
-- JavaScript
-- SQL
+<div align="center">
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- DOM
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Database
-- MySQL
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse IDE
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
-### ♿ Accessible E-commerce Website for Blind People
-A website designed following accessibility guidelines to help visually impaired users shop online.
+<div align="center">
 
-**Tech Stack:**
-- HTML
-- CSS
-- JavaScript
-- Node.js
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
----
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME)
 
-## 📈 GitHub Stats
-
-![Gokul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokull-23&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokull-23&layout=compact)
+</div>
 
 ---
 
-## 🔥 Current Learning
+## 🎯 Featured Projects
 
-```java
-class Learning {
-    public static void main(String[] args) {
-        System.out.println("Java");
-        System.out.println("JDBC");
-        System.out.println("SQL");
-        System.out.println("JavaScript");
-        System.out.println("Full Stack Development");
-    }
-}
+### 1. **[Front-end-1st-HTML.code](https://github.com/Gokull-23/Front-end-1st-HTML.code)** 
+   - My first HTML Page hosting
+   - Built with: **HTML, CSS**
+   - Status: ✅ Active
+
+### 2. **[Daily-News](https://github.com/Gokull-23/Daily-News)**
+   - News aggregation web application
+   - Built with: **HTML, CSS, JavaScript**
+   - Status: ✅ Active
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 📈 What I'm Working On
+
+- 🔨 Building responsive **web applications**
+- 📖 Learning **JavaScript frameworks** (React, Vue)
+- 🤝 Contributing to **open-source projects**
+- 📝 Writing **technical blogs** about web development
+
+---
+
+## ⭐ Quick Stats
+
+```
+Total Repositories: X
+Total Followers: X
+Following: X
 ```
 
 ---
 
-## 📫 Connect With Me
+## 💡 Fun Facts
 
-- GitHub: https://github.com/Gokull-23
+- 🎮 Game development enthusiast
+- 📱 Mobile-first design advocate
+- 🎨 UI/UX design lover
+- 🚀 Always exploring new technologies
 
 ---
 
-### ✨ Quote
+<div align="center">
 
-> "Consistency beats talent when talent doesn't work hard."
+### Thanks for visiting my profile! 🙏
 
-⭐ Thanks for visiting my profile!
+Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate on exciting projects!
+
+⭐ If you like my work, please consider giving a star to my repositories!
+
+</div>
